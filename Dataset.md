@@ -1,6 +1,7 @@
-Sugarcane Leaf disease are classeified into 5 categories - Healthy, Mosaic, RedRot, Rust, and Yellow. 
+**Sugarcane Leaf disease** are classeified into 5 categories - **Healthy, Mosaic, RedRot, Rust, and Yellow.**
 
 This can be available directly at **https://www.kaggle.com/datasets/nirmalsankalana/sugarcane-leaf-disease-dataset**
+
 It consist of total 2521 images categorized into five classes – Healthy (522), Mosaic (462), Red Rot (518), Rust (514), and Yellow (505).  
 The dataset shows a balanced distribution of samples across all classes for an unbiased model training. 
 These leaf image dataset were labeled based on visual pathology markers such as color mottling, lesions, spots and chlorotic patterns. 
